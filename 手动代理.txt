@@ -1,0 +1,2 @@
+# 每行填写一条 Shadowrocket 规则，例如：
+# DOMAIN-SUFFIX,example.com

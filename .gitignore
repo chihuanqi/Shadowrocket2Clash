@@ -1,2 +1,4 @@
 __pycache__
 clash-lazy-group.yaml
+clash-global-override.yaml
+clash-global-override.js
