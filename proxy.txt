@@ -1,2 +1,4 @@
 # 每行填写一条 Shadowrocket 规则，例如：
 # DOMAIN-SUFFIX,example.com
+DOMAIN-SUFFIX,tello.com
+DOMAIN-SUFFIX,ultramobile.com

@@ -155,8 +155,8 @@ def generate(manual_proxy: Path, manual_direct: Path, output: Path, timeout: int
 
 def main(argv: Iterable[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--manual-proxy", type=Path, default=Path("手动代理.txt"))
-    parser.add_argument("--manual-direct", type=Path, default=Path("手动直连.txt"))
+    parser.add_argument("--manual-proxy", type=Path, default=Path("proxy.txt"))
+    parser.add_argument("--manual-direct", type=Path, default=Path("direct.txt"))
     parser.add_argument("--output", type=Path, default=Path("clash-global-override.js"))
     parser.add_argument("--timeout", type=int, default=30)
     args = parser.parse_args(argv)
