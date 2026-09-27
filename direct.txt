@@ -4,4 +4,3 @@ DOMAIN-SUFFIX,api.ywcode.top
 DOMAIN-SUFFIX,code.yunfei.best
 DOMAIN-SUFFIX,apimux.cc
 DOMAIN-SUFFIX,www.tokensupply.net
-DOMAIN-SUFFIX,binance.com
