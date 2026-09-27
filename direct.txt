@@ -1,4 +1,7 @@
-DOMAIN,api.ywcode.top
-DOMAIN,code.yunfei.best
-DOMAIN,apimux.cc
-DOMAIN,www.tokensupply.net
+# 每行填写一条 Shadowrocket 规则，例如：
+# DOMAIN-SUFFIX,example.com
+DOMAIN-SUFFIX,api.ywcode.top
+DOMAIN-SUFFIX,code.yunfei.best
+DOMAIN-SUFFIX,apimux.cc
+DOMAIN-SUFFIX,www.tokensupply.net
+DOMAIN-SUFFIX,binance.com

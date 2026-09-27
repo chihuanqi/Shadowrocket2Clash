@@ -29,3 +29,5 @@ python3 generate_global_override.py \
   --manual-direct ./手动直连.txt \
   --output ./clash-global-override.js
 ```
+
+pbcopy < clash-global-override.js
