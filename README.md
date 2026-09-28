@@ -1,3 +1,11 @@
+# for shadowrocks
+使用https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/lazy_group.conf
+删除global规则, futu不代理
+增加:
+- direct.txt: 直连. 代理站走直连
+- proxy_auto.txt: 代理+默认节点. 长桥可下单
+- proxy_us.txt: 代理+美国节点. 美区手机app防风控
+
 # Clash Verge Rev 全局扩展覆写
 
 运行：
