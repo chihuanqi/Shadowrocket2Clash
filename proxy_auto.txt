@@ -1,0 +1,33 @@
+# 手动指定走默认代理
+
+# 每行填写一条 Shadowrocket 规则，例如：
+# DOMAIN-SUFFIX,example.com
+
+# Longbridge - API endpoints and root domains
+DOMAIN-SUFFIX,lbctrl.com
+DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,api.lbkrs.com
+DOMAIN-SUFFIX,api-gl.lbkrs.com
+DOMAIN-SUFFIX,wbrks.com
+
+# Longbridge - official domains and app services
+DOMAIN-SUFFIX,longbridge.app
+DOMAIN-SUFFIX,longbridge.cloud
+DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,longbridge.global
+DOMAIN-SUFFIX,longbridge.hk
+DOMAIN-SUFFIX,longbridge.sg
+DOMAIN-SUFFIX,longbridgeapp.com
+DOMAIN-SUFFIX,longbridgehk.com
+DOMAIN-SUFFIX,longportapp.cn
+DOMAIN-SUFFIX,longportapp.com
+
+# Longbridge - exact quote, trade, and OpenAPI endpoints
+DOMAIN,quote.longbridge.global
+DOMAIN,trade.longportapp.com
+DOMAIN,openapi.longbridge.com
+DOMAIN,openapi-quote.longbridge.com
+DOMAIN,openapi-trade.longbridge.com
+DOMAIN,openapi.longbridge.cn
+DOMAIN,openapi-quote.longbridge.cn
+DOMAIN,openapi-trade.longbridge.cn
