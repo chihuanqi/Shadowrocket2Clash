@@ -3,6 +3,9 @@
 # 每行填写一条 Shadowrocket 规则，例如：
 # DOMAIN-SUFFIX,example.com
 
+
+DOMAIN-SUFFIX,linkedin.com
+
 # Longbridge - API endpoints and root domains
 DOMAIN-SUFFIX,lbctrl.com
 DOMAIN-SUFFIX,lbkrs.com
