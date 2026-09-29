@@ -5,3 +5,4 @@
 
 DOMAIN-SUFFIX,tello.com
 DOMAIN-SUFFIX,ultramobile.com
+DOMAIN-SUFFIX,redpocket.com
