@@ -5,6 +5,7 @@
 
 
 DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,mypikpak.com
 
 # Longbridge - API endpoints and root domains
 DOMAIN-SUFFIX,lbctrl.com
