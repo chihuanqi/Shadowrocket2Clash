@@ -6,8 +6,12 @@
 # 自定义
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,mypikpak.com
-DOMAIN-SUFFIX,xiaoyinsi.com
 
+# 币安
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,binanceapi.com
 
 # 长桥
 # Longbridge - API endpoints and root domains
