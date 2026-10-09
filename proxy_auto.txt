@@ -3,10 +3,13 @@
 # 每行填写一条 Shadowrocket 规则，例如：
 # DOMAIN-SUFFIX,example.com
 
-
+# 自定义
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,xiaoyinsi.com
 
+
+# 长桥
 # Longbridge - API endpoints and root domains
 DOMAIN-SUFFIX,lbctrl.com
 DOMAIN-SUFFIX,lbkrs.com
