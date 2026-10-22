@@ -1,0 +1,7 @@
+# 手动指定走英国地址
+
+# 每行填写一条 Shadowrocket 规则，例如：
+# DOMAIN-SUFFIX,example.com
+
+DOMAIN-SUFFIX,coca.xyz
+
