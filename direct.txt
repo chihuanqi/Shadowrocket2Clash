@@ -2,7 +2,6 @@
 # DOMAIN-SUFFIX,example.com
 
 DOMAIN-SUFFIX,api.ywcode.top
-DOMAIN-SUFFIX,code.yunfei.best
 DOMAIN-SUFFIX,apimux.cc
 DOMAIN-SUFFIX,tokensupply.net
 DOMAIN-SUFFIX,linuxdo.org
