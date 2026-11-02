@@ -6,6 +6,7 @@
 # 自定义
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,kunrouai.com
 
 # 币安
 DOMAIN-SUFFIX,binance.com
